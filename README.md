@@ -3,4 +3,4 @@ this is simple code of design look like upwork freelancer profile card created i
 
 
 
-![](img/upwork_card_like.png)
+![](img/upwork_cards_like.png)
